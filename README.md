@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayank-kr, a CSE undergrad at Indian Institute of Information Technology, Guwahati
+- 👋 Hi, I’m Mayank Kumar, a CSE undergrad at Indian Institute of Information Technology, Guwahati
 - 👀 I’m interested in Web Development and Competitive Programming
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on Web Development projects
