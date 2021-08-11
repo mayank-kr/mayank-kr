@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me :
-<br>Email - kmayank38@gmail.com</br>
-LinkedIn - https://www.linkedin.com/in/mayank-kumar2002/
+<br>Email - kmayank38@gmail.com
+<br>LinkedIn - https://www.linkedin.com/in/mayank-kumar2002/
+<br>
+<br>&nbsp;My Portfolio - https://mayank-kr.github.io/portfolio/
 
 <!---
 mayank-kr/mayank-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
