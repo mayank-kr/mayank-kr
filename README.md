@@ -9,6 +9,9 @@
 
 ## Some of my Github Stats
 [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-kr)](https://github.com/mayank_kr/github-readme-stats)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-kr&langs_count=8&layout=compact)](https://github.com/mayank_kr/github-readme-stats)
 
 <!---
