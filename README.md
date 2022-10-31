@@ -5,7 +5,7 @@
 <br>Email - kmayank38@gmail.com
 <br>LinkedIn - https://www.linkedin.com/in/mayank-kumar2002/
 <br>
-<br>&nbsp;My Portfolio - https://mayankkumar.co
+<br>&nbsp;My Portfolio - https://mayank-kr.github.io/portfolio/
 
 ## Some of my Github Stats
 [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-kr)](https://github.com/mayank_kr/github-readme-stats)
